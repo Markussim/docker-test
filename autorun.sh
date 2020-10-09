@@ -1,0 +1,1 @@
+ls server.js | entr docker-compose up -d --build
